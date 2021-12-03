@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kimblag
 - 👀 I’m interested in coding, testing and dogs!
-- 🌱 I’m currently learning coding in Javascript
+- 🌱 I’m currently learning to code in Javascript
 
 
 <!---
