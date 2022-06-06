@@ -1,5 +1,5 @@
 <h1>Hi 🙋🏻‍♀️ I'm Kimberly</h1>
- <img width="500" src="https://thumbs.dreamstime.com/b/banner-de-desarrollo-web-concepto-c%C3%B3digo-sitio-programaci%C3%B3n-conjuntos-completos-aplicaci%C3%B3n-seguridad-pruebas-plataforma-209521403.jpg" alt="pern">
+ <img width="100%" src="https://thumbs.dreamstime.com/b/banner-de-desarrollo-web-concepto-c%C3%B3digo-sitio-programaci%C3%B3n-conjuntos-completos-aplicaci%C3%B3n-seguridad-pruebas-plataforma-209521403.jpg" alt="pern">
  
  <h2>About me✍🏻</h2>
  <p> 👩🏻‍💻Full Stack Developer with the ability to build and optimize end-user-oriented web sites and applications in a scalable and modularized manner</p>
