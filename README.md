@@ -10,6 +10,7 @@
  <p><span><img width="30" height="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" /></span>JavaScript</p>
   <i><b>Technologies</b></i>  <p><span><img width="30" height="30"  src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" /></span> PostgreSQL</p>
   <p><span><img width="30" height="30"  src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg" /></span> Node.js </p>
+  <p><span><img width="30" height="30"  src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.jpg" /></span> Sequelize </p>
 <p><span><img width="60" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></span> Express</p>
  <p><span><img width="30" height="30" src="https://images.assetsdelivery.com/compings_v2/mo75/mo752103/mo75210300005.jpg" /></span> React.js</p>
   <p><span><img width="30" height="30"  src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" /></span> Redux</p>
