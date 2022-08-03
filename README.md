@@ -7,7 +7,7 @@
 
  <h2>Tech Skills✍🏻</h2>
  <i><b>Programming Language</b></i>
- <p><span><img width="30" height="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" /></span>JavaScript</p>
+ <p><span><img width="30" height="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" /></span>JavaScript - TypeScript</p>
   <i><b>Technologies</b></i>  <p><span><img width="30" height="30"  src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" /></span> PostgreSQL</p>
   <p><span><img width="30" height="30"  src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg" /></span> Node.js </p>
   <p><span><img width="30" height="30"  src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.jpg" /></span> Sequelize </p>
@@ -17,8 +17,8 @@
   
   <h2>I'm currently learning 📖✏️</h2>
                     <p> I am <b><i>passionate</i></b> about learning, that is why I am currently learning</p>
-                    <p>✅ Typescript</p>
-                    <p>✅ React Native</p>
+                    <p>✅ Java</p>
+                    
 
 
 <h2>Get in touch📱👩🏻‍💻</h2>
