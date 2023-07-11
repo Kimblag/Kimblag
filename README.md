@@ -14,10 +14,11 @@
 <p><span><img width="60" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></span> Express</p>
  <p><span><img width="30" height="30" src="https://images.assetsdelivery.com/compings_v2/mo75/mo752103/mo75210300005.jpg" /></span> React.js</p>
   <p><span><img width="30" height="30"  src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" /></span> Redux</p>
+  <p><span><img width="30" height="30"  src="https://static.vecteezy.com/system/resources/thumbnails/012/697/295/small_2x/3d-python-programming-language-logo-free-png.png" /></span> Python</p>
   
   <h2>I'm currently learning 📖✏️</h2>
                     <p> I am <b><i>passionate</i></b> about learning, that is why I am currently learning</p>
-                    <p>✅ Java</p>
+                    <p>✅ AWS </p>
                     
 
 
