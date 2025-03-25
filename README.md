@@ -9,9 +9,6 @@
  <i><b>Programming Language</b></i>
  <p><span><img width="30" height="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" /></span>JavaScript - TypeScript</p>
   <i><b>Technologies</b></i>  <p><span><img width="30" height="30"  src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" /></span> PostgreSQL</p>
-  <p><span><img width="30" height="30"  src="https://icon-library.com/images/node-js-icon/node-js-icon-15.jpg" /></span> Node.js </p>
-  <p><span><img width="30" height="30"  src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.jpg" /></span> Sequelize </p>
-<p><span><img width="60" height="30"  src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" /></span> Express</p>
  <p><span><img width="30" height="30" src="https://images.assetsdelivery.com/compings_v2/mo75/mo752103/mo75210300005.jpg" /></span> React.js</p>
   <p><span><img width="30" height="30"  src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" /></span> Redux</p>
   <p><span><img width="30" height="30"  src="https://static.vecteezy.com/system/resources/thumbnails/012/697/295/small_2x/3d-python-programming-language-logo-free-png.png" /></span> Python</p>
@@ -20,12 +17,6 @@
                     <p> I am <b><i>passionate</i></b> about learning, that is why I am currently learning</p>
                     <p>✅ AWS </p>
                     
-
-
-<h2>Get in touch📱👩🏻‍💻</h2>
-                    <p>Do you want to know more about me? Contact me!</p>
-                    <p>📧Email: kimberly.blandong@gmail.com</p>
-                    <p>Or send me a message through <a href="https://www.linkedin.com/in/kimberlyblandon-developer/?locale=en_US">LinkedIn</a>.</p>
 <!---
 Kimblag/Kimblag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
