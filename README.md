@@ -1,23 +1,47 @@
-<h1>Hi 🙋🏻‍♀️ I'm Kimberly</h1>
-  
- <h2>About me✍🏻</h2>
- <p> 👩🏻‍💻Full Stack Developer with the ability to build and optimize end-user-oriented web sites and applications in a scalable and modularized manner</p>
-<p>📖✏️I love to investigate, solve problems, learn from others and teach, that is why in me you will find a developer with conflict resolution skills, willing to listen to ideas and contribute all my knowledge to achieve the proposed objectives.</p>
+<h1 align="center">Hola, soy Kimberly 👋</h1>
 
- <h2>Tech Skills✍🏻</h2>
- <i><b>Programming Language</b></i>
- <p><span><img width="30" height="30"  src="https://static.vecteezy.com/system/resources/thumbnails/012/697/295/small_2x/3d-python-programming-language-logo-free-png.png" /></span> Python</p>
- <p><span><img width="30" height="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" /></span>JavaScript - TypeScript</p>
-  <i><b>Technologies</b></i>  <p><span><img width="30" height="30"  src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" /></span> MySQL</p>
-  <p><span><img width="30" height="30"  src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal-thumbnail.png" /></span> PostgreSQL</p>
- <p><span><img width="30" height="30" src="https://images.assetsdelivery.com/compings_v2/mo75/mo752103/mo75210300005.jpg" /></span> React.js</p>
-  <p><span><img width="30" height="30"  src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" /></span> Redux</p>
-  
-  
-  <h2>I'm currently learning 📖✏️</h2>
-                    <p> I am <b><i>passionate</i></b> about learning, that is why I am currently learning</p>
-                    <p>✅ C++ </p>
-                    <p>✅ AWS </p>
+### Acerca de mí  
+Soy estudiante de la **Tecnicatura Universitaria en Programación**, enfocada en el ecosistema **.NET**.  
+Me interesa crear software robusto y mantenible aplicando **arquitectura en capas, POO y buenas prácticas de diseño**.  
+Actualmente desarrollo proyectos académicos en **C# y SQL Server** y los comparto aquí en GitHub.  
+
+---
+
+### Tecnologías y herramientas  
+
+**Lenguajes:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+**Backend:**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+
+**Frontend:**  
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+
+**Bases de datos:**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+**Otros:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+### 📂 Proyectos destacados  
+- [Sistema de Gestión de Artículos (WinForms, .NET, SQL Server)](https://github.com/Kimblag/tp-winform-equipo-9c)  
+- [Sistema Escolar (C++, Archivos)](https://github.com/Kimblag/Sistema_Gestion_Escolar_UTN)  
+
+---
+
+✨ Siempre en busca de aprender y mejorar.
+
                     
 <!---
 Kimblag/Kimblag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
