@@ -36,13 +36,6 @@ Actualmente estoy profundizando mis conocimientos y aplicando activamente los si
 
 ---
 
-### 📂 Proyectos Destacados
-
-- **[Sistema de Gestión de Artículos (WinForms, .NET, SQL Server)](https://github.com/Kimblag/tp-winform-equipo-9c)**: Aplicación de escritorio con arquitectura en capas para la gestión de inventario.
-- **[Sistema de Gestión Escolar (C++, Archivos)](https://github.com/Kimblag/Sistema_Gestion_Escolar_UTN)**: Aplicación de consola que aplica principios de POO y manejo de memoria para la administración de una institución educativa.
-
----
-
 ### 📫 Hablemos
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/kimberly-blandon/) para cualquier consulta.
