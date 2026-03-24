@@ -8,7 +8,7 @@
 
 ---
 
-Soy **Backend Developer** especializada en construir sistemas backend estructurados y escalables, combinando **Node.js (NestJS)** y **Java**. Mi enfoque va más allá de implementar funcionalidades: diseño sistemas que puedan evolucionar sin comprometer la calidad, manteniendo claridad arquitectónica y sostenibilidad a largo plazo.
+Soy **Backend Developer** especializada en construir sistemas backend estructurados y escalables, combinando **Python** y **Java**. Mi enfoque va más allá de implementar funcionalidades: diseño sistemas que puedan evolucionar sin comprometer la calidad, manteniendo claridad arquitectónica y sostenibilidad a largo plazo.
 
 Trabajo desde el modelado de dominio hasta la exposición de APIs REST, aplicando principios de **Clean Architecture**, separación de responsabilidades y control de acceso seguro. Mi objetivo es que los sistemas sean robustos, fáciles de mantener y preparados para escalar.
 
