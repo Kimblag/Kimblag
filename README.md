@@ -1,6 +1,6 @@
 # Kimberly Blandon
 
-**Backend Developer  | Diseño y construcción de sistemas escalables en Node.js & Java**
+**Backend Developer | APIs y diseño de sistemas en Python & .NET**
 
 📍 Argentina, CABA  
 📩 [kimberly.blandon.gonzalez@gmail.com](mailto:kimberly.blandon.gonzalez@gmail.com)  
@@ -8,23 +8,22 @@
 
 ---
 
-Soy **Backend Developer** especializada en construir sistemas backend estructurados y escalables, combinando **Python** y **Java**. Mi enfoque va más allá de implementar funcionalidades: diseño sistemas que puedan evolucionar sin comprometer la calidad, manteniendo claridad arquitectónica y sostenibilidad a largo plazo.
+Soy **Backend Developer** especializada en construir sistemas backend estructurados y escalables, combinando **Python** y **NET**. Mi enfoque va más allá de implementar funcionalidades: diseño sistemas que puedan evolucionar sin comprometer la calidad, manteniendo claridad arquitectónica y sostenibilidad a largo plazo.
 
 Trabajo desde el modelado de dominio hasta la exposición de APIs REST, aplicando principios de **Clean Architecture**, separación de responsabilidades y control de acceso seguro. Mi objetivo es que los sistemas sean robustos, fáciles de mantener y preparados para escalar.
 
 ---
 
-## 🔧 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
-| Backend | Bases de Datos | Cloud & DevOps | Testing & Calidad |
-|---------|----------------|----------------|-----------------|
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) NestJS | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) SQLite | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) S3 & Lambda | ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | Git & GitHub | TDD & Clean Code |
-| TypeScript | | | DDD & Arquitectura Limpia |
+| Backend | Bases de Datos | DevOps | Diseño |
+|---------|----------------|--------|--------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) FastAPI | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) (básico) | Domain Modeling |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ASP.NET Core / EF | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Arquitectura en capas |
 
 ---
 
-## 🛠️ Enfoque Profesional
+## Enfoque Profesional
 
 - Construcción de **backends escalables y mantenibles** desde el diseño inicial.  
 - **Modelado de dominio** para estructuras claras y coherentes.  
@@ -35,7 +34,7 @@ Trabajo desde el modelado de dominio hasta la exposición de APIs REST, aplicand
 
 ---
 
-## 📌 Contacto
+## Contacto
 
 Estoy abierta a conectar con profesionales, reclutadores y equipos que valoren **criterio técnico, calidad y visión a largo plazo** en proyectos backend.  
 
@@ -44,5 +43,5 @@ Estoy abierta a conectar con profesionales, reclutadores y equipos que valoren *
 
 ---
 
-> Backend Engineer orientada a arquitectura, calidad estructural y sistemas robustos, con experiencia en Node.js y Java. Aplico principios de Clean Architecture, diseño modular y modelado de dominio para construir sistemas confiables, mantenibles y escalables.
+> Backend Engineer orientada a arquitectura, calidad estructural y sistemas robustos. Aplico principios de Clean Architecture, diseño modular y modelado de dominio para construir sistemas confiables, mantenibles y escalables.
 
