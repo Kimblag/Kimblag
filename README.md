@@ -1,6 +1,6 @@
 # Kimberly Blandon
 
-**Backend Developer | APIs y diseño de sistemas en Python & .NET**
+**Backend Developer | APIs y diseño de sistemas en Python & Java**
 
 📍 Argentina, CABA  
 📩 [kimberly.blandon.gonzalez@gmail.com](mailto:kimberly.blandon.gonzalez@gmail.com)  
@@ -8,7 +8,7 @@
 
 ---
 
-Soy **Backend Developer** especializada en construir sistemas backend estructurados y escalables, combinando **Python** y **NET**. Mi enfoque va más allá de implementar funcionalidades: diseño sistemas que puedan evolucionar sin comprometer la calidad, manteniendo claridad arquitectónica y sostenibilidad a largo plazo.
+Soy **Backend Developer** especializada en construir sistemas backend estructurados y escalables, combinando **Python** y **Java**. Mi enfoque va más allá de implementar funcionalidades: diseño sistemas que puedan evolucionar sin comprometer la calidad, manteniendo claridad arquitectónica y sostenibilidad a largo plazo.
 
 Trabajo desde el modelado de dominio hasta la exposición de APIs REST, aplicando principios de **Clean Architecture**, separación de responsabilidades y control de acceso seguro. Mi objetivo es que los sistemas sean robustos, fáciles de mantener y preparados para escalar.
 
@@ -19,7 +19,7 @@ Trabajo desde el modelado de dominio hasta la exposición de APIs REST, aplicand
 | Backend | Bases de Datos | DevOps | Diseño |
 |---------|----------------|--------|--------|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) FastAPI | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) (básico) | Domain Modeling |
-| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ASP.NET Core / EF | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Arquitectura en capas |
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Spring Boot / JPA | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | Arquitectura en capas |
 
 ---
 
@@ -44,4 +44,3 @@ Estoy abierta a conectar con profesionales, reclutadores y equipos que valoren *
 ---
 
 > Backend Engineer orientada a arquitectura, calidad estructural y sistemas robustos. Aplico principios de Clean Architecture, diseño modular y modelado de dominio para construir sistemas confiables, mantenibles y escalables.
-
